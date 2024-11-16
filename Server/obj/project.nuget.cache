@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bh4uzPd4/MZ8Tg4zGSKeNxY1DLHiNXn5aeMflZuWjHMdG1aYM/2DiN0o3L1VQCQIHu/he7cfP8uEacDvPCaAMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mpbac\\Documents\\Old Classes\\CS-5410\\Multiplayer-fixed\\My attempt\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mpbac\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}

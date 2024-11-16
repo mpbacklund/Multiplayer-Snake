@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/mpbac/Documents/Old Classes/CS-5410/Multiplayer-fixed/My attempt/Client/Content/Sounds/eat.wav</SourceFile>
+  <SourceTime>2024-04-24T09:14:48.8971892-06:00</SourceTime>
+  <DestFile>C:/Users/mpbac/Documents/Old Classes/CS-5410/Multiplayer-fixed/My attempt/Client/Content/bin/DesktopGL/Content/Sounds/eat.xnb</DestFile>
+  <DestTime>2024-06-09T17:44:34.9582356-06:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2022-07-26T05:44:56-06:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T05:44:56-06:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

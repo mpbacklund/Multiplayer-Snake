@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/mpbac/Documents/Old Classes/CS-5410/Multiplayer-fixed/My attempt/Client/Content/Fonts/menu-select.spritefont</File>
+    <File>C:/Users/mpbac/Documents/Old Classes/CS-5410/Multiplayer-fixed/My attempt/Client/Content/Fonts/menu.spritefont</File>
+    <File>C:/Users/mpbac/Documents/Old Classes/CS-5410/Multiplayer-fixed/My attempt/Client/Content/Sounds/death.wav</File>
+    <File>C:/Users/mpbac/Documents/Old Classes/CS-5410/Multiplayer-fixed/My attempt/Client/Content/Sounds/eat.wav</File>
+    <File>C:/Users/mpbac/Documents/Old Classes/CS-5410/Multiplayer-fixed/My attempt/Client/Content/Sounds/power_up.wav</File>
+    <File>C:/Users/mpbac/Documents/Old Classes/CS-5410/Multiplayer-fixed/My attempt/Client/Content/Textures/background.png</File>
+    <File>C:/Users/mpbac/Documents/Old Classes/CS-5410/Multiplayer-fixed/My attempt/Client/Content/Textures/body_enemy.png</File>
+    <File>C:/Users/mpbac/Documents/Old Classes/CS-5410/Multiplayer-fixed/My attempt/Client/Content/Textures/body.png</File>
+    <File>C:/Users/mpbac/Documents/Old Classes/CS-5410/Multiplayer-fixed/My attempt/Client/Content/Textures/deathParticle.png</File>
+    <File>C:/Users/mpbac/Documents/Old Classes/CS-5410/Multiplayer-fixed/My attempt/Client/Content/Textures/food_rock.png</File>
+    <File>C:/Users/mpbac/Documents/Old Classes/CS-5410/Multiplayer-fixed/My attempt/Client/Content/Textures/food_tongue_out.png</File>
+    <File>C:/Users/mpbac/Documents/Old Classes/CS-5410/Multiplayer-fixed/My attempt/Client/Content/Textures/foodParticle.png</File>
+    <File>C:/Users/mpbac/Documents/Old Classes/CS-5410/Multiplayer-fixed/My attempt/Client/Content/Textures/head_enemy.png</File>
+    <File>C:/Users/mpbac/Documents/Old Classes/CS-5410/Multiplayer-fixed/My attempt/Client/Content/Textures/head.png</File>
+    <File>C:/Users/mpbac/Documents/Old Classes/CS-5410/Multiplayer-fixed/My attempt/Client/Content/Textures/mainMenu.png</File>
+    <File>C:/Users/mpbac/Documents/Old Classes/CS-5410/Multiplayer-fixed/My attempt/Client/Content/Textures/menu2.png</File>
+    <File>C:/Users/mpbac/Documents/Old Classes/CS-5410/Multiplayer-fixed/My attempt/Client/Content/Textures/panel.png</File>
+    <File>C:/Users/mpbac/Documents/Old Classes/CS-5410/Multiplayer-fixed/My attempt/Client/Content/Textures/snake_roll.png</File>
+    <File>C:/Users/mpbac/Documents/Old Classes/CS-5410/Multiplayer-fixed/My attempt/Client/Content/Textures/tail_enemy.png</File>
+    <File>C:/Users/mpbac/Documents/Old Classes/CS-5410/Multiplayer-fixed/My attempt/Client/Content/Textures/tail.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

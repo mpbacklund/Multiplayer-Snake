@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/mpbac/Documents/Old Classes/CS-5410/Multiplayer-fixed/My attempt/Client/Content/Fonts/menu-select.spritefont</SourceFile>
+  <SourceTime>2024-03-28T17:01:35.7763958-06:00</SourceTime>
+  <DestFile>C:/Users/mpbac/Documents/Old Classes/CS-5410/Multiplayer-fixed/My attempt/Client/Content/bin/DesktopGL/Content/Fonts/menu-select.xnb</DestFile>
+  <DestTime>2024-06-09T17:44:34.2971769-06:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2022-07-26T05:44:56-06:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2022-07-26T05:44:56-06:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
